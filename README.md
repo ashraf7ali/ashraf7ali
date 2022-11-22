@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashraf</h1>
+<h1 align="center">Hi 👋, I'm Ash</h1>
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ashraf7ali/ashraf7ali/main/code.gif?raw=true" width="400" height="300" />
 
 <h3 align="center">A passionate Software Developer. Versatile to learn new technologies and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖)</h3>
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Full Stach Web Tech, Machine Learning, Data Analytics**
 
-- 📫 How to reach me **ashrafalimir95@gmail.com**
+- 📫 How to reach me **miraash95@gmail.com**
 
 
 
